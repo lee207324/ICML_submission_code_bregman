@@ -1,4 +1,4 @@
-# ICML Code (PBDL)
+# Submission Code (PBDL)
 
 ## 1. Prerequisites:
 
